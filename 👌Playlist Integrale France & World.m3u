@@ -1806,8 +1806,8 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300597
 #EXTINF:-1, tvg-id="Ligue1Plus7.fr" tvg-logo="Logo N/A" tvg-name="ligue1+ 7"  group-title="FR| SPORTS",ligue1+ 7
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939424
 
-#EXTINF:-1, tvg-id="Ligue1Plus.fr" tvg-logo="Logo N/A" tvg-name="ligue1+"  group-title="FR| SPORTS",ligue1+
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939418
+#EXTINF:-1, tvg-id="Ligue1Plus.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgho4H_lEDaLDEeI7SZiOBOmO7uxPj54kAA&s" tvg-name="ligue1+"  group-title="FR| SPORTS",ligue1+
+http://drmv3-m6.info/play/live.php?mac=00:1A:79:84:1A:60&stream=1102178&extension=ts
 
 #EXTINF:-1, tvg-id="Ligue1Plus2.fr" tvg-logo="Logo N/A" tvg-name="ligue1+ 2"  group-title="FR| SPORTS",ligue1+ 2
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939419
@@ -3911,4 +3911,5 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70434
 
 #EXTINF:-1, tvg-id="nflnetwork.us" tvg-logo="http://safiafamily.com/uploads/family/usa/NFL-Now---Channel-logo.png" tvg-name="NFL Now"  group-title="USA| NBA NFL NHL MLB",NFL Now
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/313576
+
 
